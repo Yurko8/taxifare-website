@@ -12,9 +12,9 @@ st.image(image_path, use_column_width=True)
 '''
 
 st.markdown('''
-If you are ever thinking of getting a cab in New York?
+Are you are ever thinking of getting a cab in New York?
 
-If you do so and don't want to get scammed you need this website, as it allows you to accurately predict the fare prices!
+If you do so, and don't want to get scammed you need this website, as it allows you to accurately predict the fare prices!
 ''')
 
 st.sidebar.header("Trip Details")
